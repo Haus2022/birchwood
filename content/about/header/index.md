@@ -9,5 +9,5 @@ headline: Birchwood
 
 
 
-Because, people gather in the shade of trees to discuss the days events, and the first tree I ever climbed was a birchwood.
+Because, people gather in the shade of trees to discuss the days events.
 

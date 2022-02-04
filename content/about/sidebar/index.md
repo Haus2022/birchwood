@@ -1,14 +1,14 @@
 ---
 ## Configure sidebar content in narrow column
 author: ""
-role: "---------------4"
+role: ""
 avatar_shape: circle # circle, square, rounded, leave blank to exclude
 show_social_links: FALSE # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
+- name: CME Group
+  url: https://www.cmegroup.com/markets/products.html#sortAsc&sortField
 - name: Pastries
   url: https://en.wikipedia.org/wiki/Pastry
 - name: People

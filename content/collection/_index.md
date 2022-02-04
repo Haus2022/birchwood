@@ -3,7 +3,7 @@ author: Alison Hill
 cascade:
   layout: single-series
   sidebar:
-    author: Alison Hill
+    author: 
     description: "Sometimes you want a souped-up series- a bundle of related pages
       \nmeant to be read in sequence. This section is like a blog series, \nminus
       the blog.\n"
