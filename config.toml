@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
+title = "*"
 author = "1602"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "birchwood"
   orgLocal = ""
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = ""#"/img/favicon.ico"
+  logo = ""#"/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer

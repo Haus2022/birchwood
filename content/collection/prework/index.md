@@ -1,71 +1,75 @@
 ---
-date: "2021-01-01"
+date: "2022-01-01"
 draft: false
-excerpt: How to prepare ahead of time.
-subtitle: ""
-title: Prework
+excerpt:
+subtitle: "Links to review for general sentiment"
+title: Checklist
 weight: 1
 ---
 
-Welcome to the [Introducing Yourself Online](/) workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
+ 
+## NASDAQ 100 
 
-## Set up RStudio Cloud
+Symbols for the Nasdaq: [COMPQ](<https://schrts.co/bPcZMrRF>),[QQQ](<https://schrts.co/ibqGvDCU>),[NDX](<https://schrts.co/daGJVDzy>) 
 
-Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember). I want you to be able to work from your own laptop in this workshop, but Cloud is an important back-up plan should you run into troubles.
+### Nasdaq 100 market breadth links:   
 
-## Set up GitHub
++ [Nasdaq 100 - Percent of Stocks Above 50DMA](<https://schrts.co/HYXTNCKZ>) 
++ [Nasdaq 100 - Percent of Stocks Above 150DMA](<https://schrts.co/yJnabEGb> ) <br>
++ [Nasdaq 100 - Percent of Stocks Above 200DMA](<https://schrts.co/VXKhDkvg>) <br>
 
-We will be using GitHub in this workshop for version control and publishing. Sign up for a free GitHub.com account at <https://github.com/join> if you don't already have one. Also:
++ [Nasdaq 100 - above 50DMA from indexindicators.com](<https://www.indexindicators.com/charts/nasdaq100-vs-nasdaq100-stocks-above-50d-sma-params-x-x-x-x/>) <br>
++ [Nasdaq 100 - above 200DMA from indexindicators.com](<https://www.indexindicators.com/charts/nasdaq100-vs-nasdaq100-stocks-above-200d-sma-params-x-x-x-x/>)
 
-+ Complete these [installation instructions](https://happygitwithr.com/install-intro.html).
-    
-+ Test your connection between GitHub and RStudio following [these steps](https://happygitwithr.com/connect-intro.html). 
-    
-+ **NOTE:** We *strongly recommend* that if you are not already a fluent GitHub user you choose [HTTPS over SSH](https://happygitwithr.com/credential-caching.html).
 
-## Brush up on markdown
 
-Please complete this [10-minute interactive tutorial on Markdown](https://commonmark.org/help/tutorial/). 
+## S&P 500 
 
-## Installations
+Symbols for the S&P
 
-Please bring a laptop that has the following installed:
+### S&P 500 market breadth links : 
 
-+ A recent version of R (>=3.6.0), which is available for free at https://cloud.r-project.org/
-    
-+ A recent version of RStudio Desktop (>=1.4), available for free ([RStudio Desktop Open Source License](https://www.rstudio.com/products/rstudio/download/#download)). Read up on the latest version [here](https://blog.rstudio.com/2021/01/19/announcing-rstudio-1-4/).
-    
-+ The R packages we will use, which you can install by connecting to the internet, opening RStudio, and running at the command line:
+[S&P 500 - above 50DMA from indexindicators.com](<https://www.indexindicators.com/charts/sp500-vs-sp500-stocks-above-50d-sma-params-x-x-x-x/>) <br>
+[S&P 500 - above 200DMA from indexindicators.com](<https://www.indexindicators.com/charts/sp500-vs-sp500-stocks-above-200d-sma-params-x-x-x-x/>)
 
-    ```r
-    > install.packages(c("usethis", "remotes", "distill", 
-                       "postcards", "blogdown"))
-    ```
-    
-    You'll also need to install the development version of the `rmarkdown` package:
-    
-    ```r
-    > remotes::install_github("rmarkdown")
-    ```
 
-## Install Hugo
 
-To use blogdown, please install Hugo:
-```r
-> blogdown::install_hugo()
-```
 
-And ensure your current version is at least as high as:
-```r
-> hugo_version()
-[1] ‘0.79.0’
-```
+## General
 
-## Check pandoc
 
-The RStudio IDE bundles an updated version of pandoc- if you did install v1.4 of the IDE, you should be all set!
+[$VIX - Volatility index](<https://schrts.co/itpvykjr>) <br>
+[Decision Point Gallery](<https://stockcharts.com/freecharts/dpgallery.html>) includes the AAII sentiment readings <br>
+[INDU - Dow Jones Industrial Average](<https://stockcharts.com/h-sc/ui>) <br>
+[IWM - IShares Russell 2000 ETF](<https://stockcharts.com/h-sc/ui?s=iwm>)<br>
+[IYT - IShares Transportation Average ETF](<https://stockcharts.com/h-sc/ui?s=IYT>) <br>
+[XLE - Energy Select Sector SPDR FUND](<https://stockcharts.com/h-sc/ui?s=xle>) <br>
+[XLI - ](<https://stockcharts.com/h-sc/ui?s=xli>)<br>
+[QDX - ](<https://stockcharts.com/h-sc/ui?s=gdx>)<br>
+[EEM - ](<https://stockcharts.com/h-sc/ui?s=eem>)<br>
+[HYG - ](<https://stockcharts.com/h-sc/ui?s=HYG>)<br>
+[not sure ](<https://schrts.co/ZERDYPEf>)<br>
+[TLT -](<https://stockcharts.com/h-sc/ui?s=TLT>) <br>
+[GOLD -](<https://stockcharts.com/h-sc/ui?s=^GCZ21>) <br>
+[SILVER -](<https://stockcharts.com/h-sc/ui?s=^SIZ21>) <br>
+[not sure -](<https://schrts.co/PsnYArTZ>)<br>
+[UNITED STATES DOLLAR - ](<https://stockcharts.com/h-sc/ui?s=$USD>)<br>
+[not sure ](<https://schrts.co/BxuUaZPA>)<br>
 
-```r
-> rmarkdown::pandoc_version()
-[1] ‘2.11.3’
-```
+
+
+
+
+
+## Other Sources 
+
+
+https://www.mrci.com/web/index.php
+
+
+
+
+
+
+https://stockcharts.com/h-sc/ui?s=$SOLUSD
+

@@ -1,27 +1,23 @@
 ---
-author: Alison Hill
+author: 1602
 cascade:
   layout: single-series
   sidebar: 
-    author: 
-    description: "Sometimes you want a souped-up series- a bundle of related pages
-      \nmeant to be read in sequence. This section is like a blog series, \nminus
-      the blog.\n"
+    author: 1602
+    description: "the other"
     show_author_byline: true
     show_post_date: true
     show_sidebar_adunit: False
     text_contents_label: On this page
-    text_link_label: ""
+    text_link_label: "that"
     text_link_url: "/blog/"
     text_series_label: outline
-    title: Create a Collection
-description: "Sometimes you want a souped-up series- a bundle of related pages \nmeant
-  to be read in sequence. This section is like a blog series, \nminus the blog.\n"
+    title: this 
+description: ""
 layout: list-sidebar
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
-subtitle: A collection, minus the blog.
+subtitle: 
 thumbnail_left: false
-title: Create a Collection
 ---
