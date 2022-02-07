@@ -2,7 +2,7 @@
 date: "2022-01-01"
 draft: false
 excerpt:
-subtitle: "Links to review general sentiment"
+subtitle: "Links to review for general sentiment"
 title: Checklist
 weight: 1
 ---
