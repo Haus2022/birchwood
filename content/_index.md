@@ -8,9 +8,9 @@ images:
 - volume.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A Trading Journal
+subtitle: 
 text_align_left: false
-title: Birchwood
+title: ~ 1602
 type: home
 ---
 

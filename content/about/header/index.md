@@ -2,12 +2,11 @@
 ## Configure header of page
 text_align_right: false
 show_title_as_headline: false
-headline: Birchwood
----
+headline: 1602
 
 <!-- this is a subheadline -->
 
 
 
-Because, people gather in the shade of trees to discuss the days events.
+Sixteen o two is a trading journal, a place to collect market charts,statistics projects and other general observations.
 
