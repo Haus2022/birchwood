@@ -2,13 +2,15 @@
 date: "2022-01-01"
 draft: false
 excerpt:
-subtitle: "Links to review for general sentiment"
+subtitle: "Links to review general sentiment"
 title: Checklist
 weight: 1
 ---
 
  
-## NASDAQ 100 
+## NASDAQ 100
+
+[NASDAQ](<https://www.nasdaq.com/>)
 
 Symbols for the Nasdaq: [COMPQ](<https://schrts.co/bPcZMrRF>),[QQQ](<https://schrts.co/ibqGvDCU>),[NDX](<https://schrts.co/daGJVDzy>) 
 
@@ -17,11 +19,10 @@ Symbols for the Nasdaq: [COMPQ](<https://schrts.co/bPcZMrRF>),[QQQ](<https://sch
 + [Nasdaq 100 - Percent of Stocks Above 50DMA](<https://schrts.co/HYXTNCKZ>) 
 + [Nasdaq 100 - Percent of Stocks Above 150DMA](<https://schrts.co/yJnabEGb> ) <br>
 + [Nasdaq 100 - Percent of Stocks Above 200DMA](<https://schrts.co/VXKhDkvg>) <br>
-
 + [Nasdaq 100 - above 50DMA from indexindicators.com](<https://www.indexindicators.com/charts/nasdaq100-vs-nasdaq100-stocks-above-50d-sma-params-x-x-x-x/>) <br>
 + [Nasdaq 100 - above 200DMA from indexindicators.com](<https://www.indexindicators.com/charts/nasdaq100-vs-nasdaq100-stocks-above-200d-sma-params-x-x-x-x/>)
 
-
+<br>
 
 ## S&P 500 
 
@@ -29,8 +30,8 @@ Symbols for the S&P
 
 ### S&P 500 market breadth links : 
 
-[S&P 500 - above 50DMA from indexindicators.com](<https://www.indexindicators.com/charts/sp500-vs-sp500-stocks-above-50d-sma-params-x-x-x-x/>) <br>
-[S&P 500 - above 200DMA from indexindicators.com](<https://www.indexindicators.com/charts/sp500-vs-sp500-stocks-above-200d-sma-params-x-x-x-x/>)
++ [S&P 500 - above 50DMA from indexindicators.com](<https://www.indexindicators.com/charts/sp500-vs-sp500-stocks-above-50d-sma-params-x-x-x-x/>) <br>
++ [S&P 500 - above 200DMA from indexindicators.com](<https://www.indexindicators.com/charts/sp500-vs-sp500-stocks-above-200d-sma-params-x-x-x-x/>)
 
 
 
