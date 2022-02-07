@@ -3,7 +3,7 @@ author: 1602
 cascade:
   layout: single-series
   sidebar: 
-    author: 1602
+    author: 
     description: "the other"
     show_author_byline: true
     show_post_date: true
