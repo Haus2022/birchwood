@@ -5,7 +5,7 @@ excerpt: You can share information about yourself with the community on GitHub b
   creating a profile README. GitHub shows your profile README at the top of your profile
   page.
 links:
-- icon: door-open
+- icon: door-open 
   icon_pack: fas
   name: website
   url: https://bakeoff.netlify.com/
@@ -13,8 +13,9 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/apreshill/bakeoff
-subtitle: Put your best foot forward, first.
-title: A GitHub profile
+
+subtitle:
+title: January 2022
 weight: 1
 ---
 

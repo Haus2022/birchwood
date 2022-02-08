@@ -17,7 +17,7 @@ description: ""
 layout: list-sidebar
 show_author_byline: false
 show_post_date: false
-show_post_thumbnail: true
+show_post_thumbnail: false
 subtitle: 
 thumbnail_left: false
 ---
