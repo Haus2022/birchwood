@@ -7,7 +7,9 @@ number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
  Sixteen o two, is a trading journal. 
- A site where market charts, R projects and other general sentiment observations are collected.  
+ A site where market charts, R projects and other general market sentiment observations are collected.
+ 
+ Sixteen o two also features a rotating selection of paintings to add some visual pleasure.  
 show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!

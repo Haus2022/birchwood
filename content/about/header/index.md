@@ -2,7 +2,7 @@
 ## Configure header of page
 text_align_right: false
 show_title_as_headline: false
-headline: ~ 1602
+headline:  1602
 ---
 <!-- this is a subheadline -->
 

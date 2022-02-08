@@ -42,20 +42,17 @@ Symbols for the S&P
 [$VIX - Volatility index](<https://schrts.co/itpvykjr>) <br>
 [Decision Point Gallery](<https://stockcharts.com/freecharts/dpgallery.html>) includes the AAII sentiment readings <br>
 [INDU - Dow Jones Industrial Average](<https://stockcharts.com/h-sc/ui>) <br>
-[IWM - IShares Russell 2000 ETF](<https://stockcharts.com/h-sc/ui?s=iwm>)<br>
-[IYT - IShares Transportation Average ETF](<https://stockcharts.com/h-sc/ui?s=IYT>) <br>
+[IWM - iShares Russell 2000 ETF](<https://stockcharts.com/h-sc/ui?s=iwm>)<br>
+[IYT - iShares Transportation Average ETF](<https://stockcharts.com/h-sc/ui?s=IYT>) <br>
 [XLE - Energy Select Sector SPDR FUND](<https://stockcharts.com/h-sc/ui?s=xle>) <br>
-[XLI - ](<https://stockcharts.com/h-sc/ui?s=xli>)<br>
-[QDX - ](<https://stockcharts.com/h-sc/ui?s=gdx>)<br>
-[EEM - ](<https://stockcharts.com/h-sc/ui?s=eem>)<br>
-[HYG - ](<https://stockcharts.com/h-sc/ui?s=HYG>)<br>
-[not sure ](<https://schrts.co/ZERDYPEf>)<br>
-[TLT -](<https://stockcharts.com/h-sc/ui?s=TLT>) <br>
-[GOLD -](<https://stockcharts.com/h-sc/ui?s=^GCZ21>) <br>
-[SILVER -](<https://stockcharts.com/h-sc/ui?s=^SIZ21>) <br>
-[not sure -](<https://schrts.co/PsnYArTZ>)<br>
-[UNITED STATES DOLLAR - ](<https://stockcharts.com/h-sc/ui?s=$USD>)<br>
-[not sure ](<https://schrts.co/BxuUaZPA>)<br>
+[XLI - Industrial Select Sector SPDR FUND](<https://stockcharts.com/h-sc/ui?s=xli>)<br>
+[QDX - VanEck Vectors Gold Miners ETF](<https://stockcharts.com/h-sc/ui?s=gdx>)<br>
+[EEM - iShares MSCI Emerging Markets ETF](<https://stockcharts.com/h-sc/ui?s=eem>)<br>
+[HYG - iShares iBoxx $ High Yeild Corporate Bonds ](<https://schrts.co/ZERDYPEf>)<br>
+[TLT - iShares 20= Year Treasury Bond ETF](<https://stockcharts.com/h-sc/ui?s=TLT>) <br>
+[GOLD - Gold Futures GCH22](<https://stockcharts.com/h-sc/ui?s=^GCZ21>) <br>
+[SILVER - Silver Futures SIG22](<https://schrts.co/PsnYArTZ>)<br>
+[US Dollar - Cash Settle (EOD)](<https://schrts.co/BxuUaZPA>)<br>
 
 
 
