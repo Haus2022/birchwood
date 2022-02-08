@@ -12,8 +12,8 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_contents_label: On this page
-    text_link_label: ""
-    text_link_url: ""
+    text_link_label: "this"
+    text_link_url: "that"
     text_series_label: In this series
   tags:
   - hugo-site
@@ -22,7 +22,7 @@ description: |
 layout: list-sidebar
 show_author_byline: true
 show_post_date: true
-show_post_thumbnail: false
+show_post_thumbnail: true
 sidebar:
   author: Alison Hill
   description: |
@@ -32,8 +32,8 @@ sidebar:
     Check out the _index.md file in the /blog/spoonful-series
     folder to edit this content.
   show_sidebar_adunit: false
-  text_link_label: ""
-  text_link_url: ""
+  text_link_label: "think"
+  text_link_url: "thought"
   title: A Spoonful of Hugo
 title: A Spoonful of Hugo
 ---

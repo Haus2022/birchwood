@@ -7,10 +7,10 @@ image_left: true
 images:
 - fishing.jpg
 show_action_link: true
-show_social_links: true
+show_social_links: false
 subtitle: 
 text_align_left: false
-title: ~ 1602
+title:  1602
 type: home
 ---
 
