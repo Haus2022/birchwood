@@ -5,7 +5,7 @@ date: "2022-02-07"
 draft: false
 excerpt: 'Link list for basic review of market sentiment'
 slug: checklist
-subtitle: Links list for basic review of market sentiment.
+subtitle:
 tags:
 - checklist
 title: '01: Checklist'
