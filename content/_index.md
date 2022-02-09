@@ -5,7 +5,7 @@ action_type: text
 description:
 image_left: true
 images:
-- fishing.jpg
+- botticelli.jpg
 show_action_link: true
 show_social_links: false
 subtitle: 

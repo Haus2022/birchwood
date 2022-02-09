@@ -133,23 +133,28 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Projects"
-    title = "Project"
+    title = "Projects"
     url = "/project/"
     weight = 3
+     [[menu.header]]
+    name = "Markets"
+    title = "Markets"
+    url = "/markets/"
+    weight = 4
   #[[menu.header]]
   # name = "Talks"
   # title = "Talks"
   #  url = "/talk/"
   #  weight = 4
-  [[menu.header]]
-    name = "Collection"
-    title = "Collection"
-    url = "/collection/"
-    weight = 4
-  [[menu.header]]
-    name = "Elements"
-    title = "Elements"
-    url = "/elements/"
+  #[[menu.header]]
+  #  name = "Collection"
+  #  title = "Collection"
+  #  url = "/collection/"
+  #  weight = 5
+  #[[menu.header]]
+  #  name = "Elements"
+  # title = "Elements"
+  # url = "/elements/"
     weight = 6
     
   # Configure footer  

@@ -9,10 +9,10 @@ link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: CME Group
   url: https://www.cmegroup.com/markets/products.html#sortAsc&sortField
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Economic Calendar
+  url: https://www.investing.com/economic-calendar
+- name: Futures
+  url: https://finviz.com/futures_charts.ashx
 ---
 
 ** index doesn't contain a body, just front matter above.
