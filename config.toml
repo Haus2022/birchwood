@@ -33,7 +33,7 @@ enableEmoji = true
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = ""#"/img/favicon.ico"
   logo = ""#"/img/blogophonic-mark-dark.png"
-  mainSections = ["project"]
+  mainSections = ["project","collections","blog"]
   navallcaps = false
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -133,7 +133,7 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Projects"
-    title = "Project Portfolio"
+    title = "Project"
     url = "/project/"
     weight = 3
   #[[menu.header]]
@@ -142,15 +142,15 @@ enableEmoji = true
   #  url = "/talk/"
   #  weight = 4
   [[menu.header]]
-    name = "Markets"
-    title = "Markets"
+    name = "Collection"
+    title = "Collection"
     url = "/collection/"
-    weight = 5
-  #[[menu.header]]
-  #  name = "Elements"
-  #  title = "Element Page"
-  #  url = "/elements/"
-  #  weight = 6
+    weight = 4
+  [[menu.header]]
+    name = "Elements"
+    title = "Elements"
+    url = "/elements/"
+    weight = 6
     
   # Configure footer  
   [[menu.footer]]
@@ -158,11 +158,11 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
+  #[[menu.footer]]
+  # name = "Contact"
+  #  title = "Contact form"
+  #  url = "/contact/"
+  #  weight = 2
   #[[menu.footer]]
   #  name = "Contributors"
   #  title = "Contributors"
