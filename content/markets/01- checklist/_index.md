@@ -1,13 +1,14 @@
 ---
+
+date: "2022-02-07"
 categories:
 - markets
-date: "2022-02-07"
+tags:
+- checklist
 draft: false
 excerpt: 'Link list for basic review of market sentiment'
 slug: checklist
 subtitle:
-tags:
-- checklist
 title: '01: Checklist'
 weight: 1
 ---

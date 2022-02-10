@@ -6,7 +6,7 @@ excerpt: How to use the blogdown R package to create a new site, update the them
 slug: create-site
 subtitle: ""
 title: '02: Create your site'
-weight: 2
+weight: 3
 ---
 
 ## New site, GitHub first

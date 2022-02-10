@@ -17,7 +17,7 @@ weight: 1
 [Energy Information Administration](https://www.eia.gov/)<br>
 + [Petroleum Supply Weekly](https://www.eia.gov/petroleum/supply/weekly/)
 
-[Bureau of Economic Anaylis](https://www.bea.gov/)<br>
+[Bureau of Economic Anaylsis](https://www.bea.gov/)<br>
 
 [Department Of Labor](https://www.dol.gov/newsroom/economicdata)<br>
 
