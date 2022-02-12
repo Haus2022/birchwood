@@ -5,7 +5,11 @@ action_type: text
 description:
 image_left: true
 images:
+<<<<<<< HEAD
 - botticelli.jpg
+=======
+- fishing.jpg
+>>>>>>> 66e6d0386e691a259a9aa4ba4d862f9d312b171c
 show_action_link: true
 show_social_links: false
 subtitle: 
