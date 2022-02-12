@@ -19,6 +19,7 @@ weight: 1
 ____
 
 #### [2022-02-11](/collection/)
+ 
+test reject off yesterdays open, or 240m 50MA
 
-
-![](20220210_000004.png)
+![](20220211_000010.png)
