@@ -1,34 +1,24 @@
 ---
 date: "2021-01-01"
 draft: false
-excerpt: You can share information about yourself with the community on GitHub by
-  creating a profile README. GitHub shows your profile README at the top of your profile
-  page.
+excerpt: 
 links:
-- icon: door-open 
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-
 subtitle:
-title: January 2022
+title: Daily
 weight: 1
 ---
 
-## Profile
+#### 2022-02-10 
+ CPI number at 8:30 shocked market down.<br>
+ Complete recovery at 9:30 open .<br>
+ Unsteady decline through the day. <br>
+ Overlapping stair step pattern after mid-afternoon flush. 
+<!-- ![](20220210_000003.png) -->
 
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
+![](20220210_000004.png)
+____
 
-## Pin projects to profile
+#### [2022-02-11](/collection/)
 
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
 
-## Profile README
-
-This is new! Let's do it:
-
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
+![](20220210_000004.png)

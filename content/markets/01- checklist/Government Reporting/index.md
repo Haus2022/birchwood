@@ -23,3 +23,4 @@ weight: 1
 
 [Bureau of Labor Statistics](https://www.bls.gov)
 + [CPI](https://www.bls.gov/cpi/)
++ [CPI Seasonal Adjustment Feb`22](https://www.bls.gov/cpi/seasonal-adjustment/home.htm)
