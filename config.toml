@@ -130,21 +130,21 @@ enableEmoji = true
     title = "About"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
+  #[[menu.header]]
+  #  name = "Blog"
+  # title = "Blog"
+  #  url = "/blog/"
+  #  weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Projects"
     url = "/project/"
-    weight = 3
+    weight = 2
      [[menu.header]]
     name = "Markets"
     title = "Markets"
     url = "/markets/"
-    weight = 4
+    weight = 3
   #[[menu.header]]
   # name = "Talks"
   # title = "Talks"
