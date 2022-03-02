@@ -29,8 +29,7 @@ Symbols for the Nasdaq: [COMPQ](<https://schrts.co/bPcZMrRF>),[QQQ](<https://sch
 ### Nasdaq 100 market breadth links:   
 
 + [Nasdaq 100 - Percent of Stocks Above 50DMA](<https://schrts.co/HYXTNCKZ>) 
-+ [Nasdaq 100 - Percent of Stocks Above 150DMA](<https://schrts.co/yJnabEGb> ) <br>
-+ [Nasdaq 100 - Percent of Stocks Above 200DMA](<https://schrts.co/VXKhDkvg>) <br>
++ [Nasdaq 100 - Percent of Stocks Above 200DMA](<https://schrts.co/VXKhDkvg>) 
 + [Nasdaq 100 - above 50DMA from indexindicators.com](<https://www.indexindicators.com/charts/nasdaq100-vs-nasdaq100-stocks-above-50d-sma-params-x-x-x-x/>) <br>
 + [Nasdaq 100 - above 200DMA from indexindicators.com](<https://www.indexindicators.com/charts/nasdaq100-vs-nasdaq100-stocks-above-200d-sma-params-x-x-x-x/>)
 
@@ -42,6 +41,12 @@ Symbols for the S&P
 
 ### S&P 500 market breadth links : 
 
++ [S&P 500 - Stocks above 50 DMA](https://schrts.co/IWsFrQtp)
++ [S&P 500 - Stocks above 150 DMA](https://schrts.co/cKKsqwgW)
++ [S&P 500 - Stocks above 200 DMA](https://schrts.co/WywjiUGY)
++ [S&P 500 - Percent Stocks above 50 DMA](https://schrts.co/iZdTVQXe)
++ [S&P 500 - Percent Stocks above 150 DMA](https://schrts.co/FAQdRUyA)
++ [S&P 500 - Percent Stocks above 200 DMA](https://schrts.co/iZdTVQXe)
 + [S&P 500 - above 50DMA from indexindicators.com](<https://www.indexindicators.com/charts/sp500-vs-sp500-stocks-above-50d-sma-params-x-x-x-x/>) <br>
 + [S&P 500 - above 200DMA from indexindicators.com](<https://www.indexindicators.com/charts/sp500-vs-sp500-stocks-above-200d-sma-params-x-x-x-x/>)
 
@@ -53,6 +58,7 @@ Symbols for the S&P
 
 [$VIX - Volatility index](<https://schrts.co/itpvykjr>) <br>
 [Decision Point Gallery](<https://stockcharts.com/freecharts/dpgallery.html>) includes the AAII sentiment readings <br>
+[AAII SENTIMENT](https://www.aaii.com/sentimentsurvey)<br>
 [INDU - Dow Jones Industrial Average](<https://stockcharts.com/h-sc/ui>) <br>
 [IWM - iShares Russell 2000 ETF](<https://stockcharts.com/h-sc/ui?s=iwm>)<br>
 [IYT - iShares Transportation Average ETF](<https://stockcharts.com/h-sc/ui?s=IYT>) <br>
