@@ -25,7 +25,7 @@ Insurance Companies
 
  + [one america]()
  + [Unico American Corporation ](https://schrts.co/gANmnNEG)+36
- + [unam late](https://finance.yahoo.com/news/unico-american-corporation-receives-notification-192700856.html)
+ + [Unam late](https://finance.yahoo.com/news/unico-american-corporation-receives-notification-192700856.html)
  + [lincoln national]()+57
  + [reinsurance group of america]()+41
  + [hartford]()+32
