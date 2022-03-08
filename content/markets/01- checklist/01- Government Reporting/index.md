@@ -35,3 +35,4 @@ weight: 1
 + [Beige Book](https://www.federalreserve.gov/monetarypolicy/beigebook/default.htm)
 
 [ISM](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/)
++[ISM PMI](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/)

@@ -139,7 +139,7 @@ enableEmoji = true
      [[menu.header]]
     name = "Markets"
     title = "Markets"
-    url = "/markets/"
+    url = "/markets/01-checklist"
     weight = 3
   #[[menu.header]]
   # name = "Talks"

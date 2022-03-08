@@ -58,7 +58,7 @@ Symbols for the S&P
 
 [$VIX - Volatility index](<https://schrts.co/itpvykjr>) <br>
 [Decision Point Gallery](<https://stockcharts.com/freecharts/dpgallery.html>) includes the AAII sentiment readings <br>
-[AAII SENTIMENT](https://www.aaii.com/sentimentsurvey)<br>
+[AAII SENTIMENT](https://www.aaii.com/sentimentsurvey/sent_results)<br>
 [INDU - Dow Jones Industrial Average](<https://stockcharts.com/h-sc/ui>) <br>
 [IWM - iShares Russell 2000 ETF](<https://stockcharts.com/h-sc/ui?s=iwm>)<br>
 [IYT - iShares Transportation Average ETF](<https://stockcharts.com/h-sc/ui?s=IYT>) <br>
@@ -68,7 +68,7 @@ Symbols for the S&P
 [EEM - iShares MSCI Emerging Markets ETF](<https://stockcharts.com/h-sc/ui?s=eem>)<br>
 [HYG - iShares iBoxx $ High Yeild Corporate Bonds ](<https://schrts.co/ZERDYPEf>)<br>
 [TLT - iShares 20= Year Treasury Bond ETF](<https://stockcharts.com/h-sc/ui?s=TLT>) <br>
-[GOLD - Gold Futures GCH22](<https://stockcharts.com/h-sc/ui?s=^GCZ21>) <br>
+[GOLD - Gold Futures GCH22](<https://schrts.co/pXaVcRIK>) <br>
 [SILVER - Silver Futures SIG22](<https://schrts.co/PsnYArTZ>)<br>
 [US Dollar - Cash Settle (EOD)](<https://schrts.co/BxuUaZPA>)<br>
 
