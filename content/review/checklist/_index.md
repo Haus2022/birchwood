@@ -2,16 +2,17 @@
 
 date: "2022-02-07"
 categories:
-- markets
-tags:
 - checklist
+tags:
+- review
 draft: false
-excerpt: 'Link list for basic review of market sentiment'
+excerpt: ''
 slug: checklist
 subtitle:
-title: '01: Checklist'
+title: 'Checklist'
 weight: 1
 ---
+
 ## Calendars
 [Economic Calendar](<https://www.investing.com/economic-calendar/>)<br>
 [Jewish Holidays](<https://www.chabad.org/holidays/default_cdo/jewish/holidays.htm>)
@@ -80,16 +81,12 @@ Symbols for the S&P
 
 ## Other Sources 
 
-https://www.mrci.com/web/index.php <br>
-https://www.yardeni.com/
-https://www.lindaraschke.net/login
+[Steve Moore MRCI](https://www.mrci.com/web/index.php) <br>
+[Edward Yardini](https://www.yardeni.com/)<br>
+[Linda Raschke](https://www.lindaraschke.net/login)<br>
 
-
-##Digital Currency
-
-https://stockcharts.com/h-sc/ui?s=$SOLUSD
 
 
 ##Data
 
-[Turtle Trader list](https://www.turtletrader.com/hpd/)
+[Turtle Trader list](https://www.turtletrader.com/hpd/)<br>
