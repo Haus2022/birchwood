@@ -28,7 +28,7 @@ sidebar:
   text_link_url: 
   title: Get started
 thumbnail_left: true
-title: markets
+title: review
 type: collection
 ---
 
