@@ -1,56 +1,92 @@
 ---
-title: "CSS Grid Scaffold"
+title: "Checklist"
 subtitle: ""
-excerpt: "Grid is the very first CSS module created specifically to solve the layout problems we’ve all been hacking our way around for as long as we’ve been making websites."
-date: 2019-07-02
-author: "Eric Anderson"
+excerpt: ""
+date: 2022-03-15
+author: ""
 draft: false
 tags:
-- hugo-site
+- 
 categories:
-- Theme Features
+- Checklist
 # layout options: single, single-sidebar
 layout: single-sidebar
 ---
 
-### “Grid is the very first CSS module created specifically to solve the layout problems we've all been hacking our way around for as long as we've been making websites.”
+## Calendars
+[Economic Calendar](<https://www.investing.com/economic-calendar/>)<br>
+[Jewish Holidays](<https://www.chabad.org/holidays/default_cdo/jewish/holidays.htm>)
+[Apple Events](https://www.apple.com/apple-events/)
+[Whitehouse live page](https://www.whitehouse.gov/live/)
 
-*— [Chris House, A Complete Guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)* [^1]
 
----
 
-## Overview
+## NASDAQ 100
 
-Since I began building websites in Y2K, I've lost count how many times the phrase "...there's got to be a better way to do this" has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid `TABLE`.
+[NASDAQ](<https://www.nasdaq.com/>)
 
-Well, technology sure has come a long way since slicing up images to match the table-based layout that was just created in Dreamweaver. You'd be surprised (or maybe you wouldn't) how challenging the standard header, content, sidebar, footer layout could be to actually get right.
+Symbols for the Nasdaq: [COMPQ](<https://schrts.co/bPcZMrRF>),[QQQ](<https://schrts.co/ibqGvDCU>),[NDX](<https://schrts.co/daGJVDzy>) 
 
-{{< figure src="css-grid-cover.png" alt="Traditional right sidebar layout" caption="A visual example of the traditional right sidebar layout" >}}
+### Nasdaq 100 market breadth links:   
 
----
++ [Nasdaq 100 - Percent of Stocks Above 50DMA](<https://schrts.co/HYXTNCKZ>) 
++ [Nasdaq 100 - Percent of Stocks Above 200DMA](<https://schrts.co/VXKhDkvg>) 
++ [Nasdaq 100 - above 50DMA from indexindicators.com](<https://www.indexindicators.com/charts/nasdaq100-vs-nasdaq100-stocks-above-50d-sma-params-x-x-x-x/>) <br>
++ [Nasdaq 100 - above 200DMA from indexindicators.com](<https://www.indexindicators.com/charts/nasdaq100-vs-nasdaq100-stocks-above-200d-sma-params-x-x-x-x/>)
 
-### <dfn title="Ermahgerd is a humorous version of the phrase oh my god, written as though pronounced with a heavy influence of extra Rs. It's meant to imitate the sound of someone speaking through a retainer.">ERMAHGERD</dfn>
+<br>
 
-A proper grid is what we always wanted, no ... _needed_ to build websites with a solid, unbreakable structure. And that's why I used it in this theme. I call this feature a "scaffold" because none of the _content_ is laid out on this grid. Only the main _structure_: consisting of the `header`, `footer`, `main`, `aside`, and `footer`. As you can tell by this quote from the [W3C](https://www.w3.org/TR/css-grid-1/) on the candidate recommendation itself, Grid is the perfect tool for the job:
+## S&P 500 
 
-> ##### CSS Grid Layout Module
->
-> This CSS module defines a two-dimensional grid-based layout system, optimized for user interface design. In the grid layout model, the children of a grid container can be positioned into arbitrary slots in a predefined flexible or fixed-size layout grid.
->
-> — _W3C_
+Symbols for the S&P
 
-## A happy ending
+### S&P 500 market breadth links : 
 
-CSS Grid is a total game changer, IMHO. Compared to the bottomless pit of despair that is the old way, the new way of building a site structure can be done in as little as 5 lines of CSS. Of course, it always takes more than that, but not much. I mean this is really the meat of the deal:
++ [S&P 500 - Stocks above 50 DMA](https://schrts.co/IWsFrQtp)
++ [S&P 500 - Stocks above 150 DMA](https://schrts.co/cKKsqwgW)
++ [S&P 500 - Stocks above 200 DMA](https://schrts.co/WywjiUGY)
++ [S&P 500 - Percent Stocks above 50 DMA](https://schrts.co/iZdTVQXe)
++ [S&P 500 - Percent Stocks above 150 DMA](https://schrts.co/FAQdRUyA)
++ [S&P 500 - Percent Stocks above 200 DMA](https://schrts.co/iZdTVQXe)
++ [S&P 500 - above 50DMA from indexindicators.com](<https://www.indexindicators.com/charts/sp500-vs-sp500-stocks-above-50d-sma-params-x-x-x-x/>) <br>
++ [S&P 500 - above 200DMA from indexindicators.com](<https://www.indexindicators.com/charts/sp500-vs-sp500-stocks-above-200d-sma-params-x-x-x-x/>)
 
-```css
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(3, auto);
-}
-```
 
-#### What an amazing time to be a web developer. Anyway, I hope you enjoy this "feature" that you'll probably never notice or even see. Maybe that's the best part of a good user interface – the hidden stuff that just works.
 
-[^1]: The original article cited here is now updated and maintained by the staff over at CSS-Tricks. Bookmark their version if you want to dive in and learn about CSS Grid: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+## General
+
+
+[$VIX - Volatility index](<https://schrts.co/itpvykjr>) <br>
+[Decision Point Gallery](<https://stockcharts.com/freecharts/dpgallery.html>) includes the AAII sentiment readings <br>
+[AAII SENTIMENT](https://www.aaii.com/sentimentsurvey/sent_results)<br>
+[INDU - Dow Jones Industrial Average](<https://stockcharts.com/h-sc/ui>) <br>
+[IWM - iShares Russell 2000 ETF](<https://stockcharts.com/h-sc/ui?s=iwm>)<br>
+[IYT - iShares Transportation Average ETF](<https://stockcharts.com/h-sc/ui?s=IYT>) <br>
+[XLE - Energy Select Sector SPDR FUND](<https://stockcharts.com/h-sc/ui?s=xle>) <br>
+[XLI - Industrial Select Sector SPDR FUND](<https://stockcharts.com/h-sc/ui?s=xli>)<br>
+[QDX - VanEck Vectors Gold Miners ETF](<https://stockcharts.com/h-sc/ui?s=gdx>)<br>
+[EEM - iShares MSCI Emerging Markets ETF](<https://stockcharts.com/h-sc/ui?s=eem>)<br>
+[HYG - iShares iBoxx $ High Yeild Corporate Bonds ](<https://schrts.co/ZERDYPEf>)<br>
+[TLT - iShares 20= Year Treasury Bond ETF](<https://stockcharts.com/h-sc/ui?s=TLT>) <br>
+[GOLD - Gold Futures GCH22](<https://schrts.co/pXaVcRIK>) <br>
+[SILVER - Silver Futures SIG22](<https://schrts.co/PsnYArTZ>)<br>
+[US Dollar - Cash Settle (EOD)](<https://schrts.co/BxuUaZPA>)<br>
+
+
+
+
+
+
+
+## Other Sources 
+
+[Steve Moore - MRCI](https://www.mrci.com/web/index.php) <br>
+[Yardini](https://www.yardeni.com/)<br>
+[Linda Rascke](https://www.lindaraschke.net/login)<br>
+
+
+
+## Data
+
+[Turtle Trader list](https://www.turtletrader.com/hpd/)<br>
