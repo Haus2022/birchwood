@@ -10,10 +10,10 @@ show_post_thumbnail: true
 thumbnail_left: false # for list-sidebar only
 show_author_byline: false
 show_post_date: false
-# for listing page layout
+ # for listing page layout
 layout: list-sidebar # list, list-sidebar
 
-# set up common front matter for all individual pages in series
+ # set up common front matter for all individual pages in series
 cascade:
   layout: single-series 
   sidebar:

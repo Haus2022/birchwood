@@ -1,8 +1,8 @@
 ---
-author: 1602
+author: 
 cascade:
-  author: 1602
-  show_author_byline: true
+  author: 2
+  show_author_byline: false
   show_comments: true
   show_post_date: true
   sidebar:

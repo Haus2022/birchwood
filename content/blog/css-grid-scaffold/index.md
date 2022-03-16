@@ -1,17 +1,18 @@
 ---
-
-date: "2022-02-07"
-categories:
-- markets
-tags:
-- checklist
+title: "Checklist"
+subtitle: ""
+excerpt: ""
+date: 2022-03-15
+author: ""
 draft: false
-excerpt: 'Link list for basic review of market sentiment'
-slug: checklist
-subtitle:
-title: '01: Checklist'
-weight: 1
+tags:
+- 
+categories:
+- Checklist
+# layout options: single, single-sidebar
+layout: single
 ---
+
 ## Calendars
 [Economic Calendar](<https://www.investing.com/economic-calendar/>)<br>
 [Jewish Holidays](<https://www.chabad.org/holidays/default_cdo/jewish/holidays.htm>)
@@ -26,7 +27,7 @@ weight: 1
 
 Symbols for the Nasdaq: [COMPQ](<https://schrts.co/bPcZMrRF>),[QQQ](<https://schrts.co/ibqGvDCU>),[NDX](<https://schrts.co/daGJVDzy>) 
 
-## Nasdaq 100 market breadth links:   
+### Nasdaq 100 market breadth links:   
 
 + [Nasdaq 100 - Percent of Stocks Above 50DMA](<https://schrts.co/HYXTNCKZ>) 
 + [Nasdaq 100 - Percent of Stocks Above 200DMA](<https://schrts.co/VXKhDkvg>) 
@@ -39,7 +40,7 @@ Symbols for the Nasdaq: [COMPQ](<https://schrts.co/bPcZMrRF>),[QQQ](<https://sch
 
 Symbols for the S&P
 
-## S&P 500 market breadth links : 
+### S&P 500 market breadth links : 
 
 + [S&P 500 - Stocks above 50 DMA](https://schrts.co/IWsFrQtp)
 + [S&P 500 - Stocks above 150 DMA](https://schrts.co/cKKsqwgW)
@@ -80,16 +81,12 @@ Symbols for the S&P
 
 ## Other Sources 
 
-https://www.mrci.com/web/index.php <br>
-https://www.yardeni.com/
-https://www.lindaraschke.net/login
+[Steve Moore - MRCI](https://www.mrci.com/web/index.php) <br>
+[Yardini](https://www.yardeni.com/)<br>
+[Linda Rascke](https://www.lindaraschke.net/login)<br>
 
 
-##Digital Currency
 
-https://stockcharts.com/h-sc/ui?s=$SOLUSD
+## Data
 
-
-##Data
-
-[Turtle Trader list](https://www.turtletrader.com/hpd/)
+[Turtle Trader list](https://www.turtletrader.com/hpd/)<br>
