@@ -1,10 +1,10 @@
 ---
-title: nasdaq
-subtitle: ""
+title: Nasdaq
+subtitle: "Components by weight"
 date: "2022-01-01"
 draft: false
-excerpt: Nasdaq Components by Weight
-weight: 
+excerpt: 
+weight: 4
 ---
 
 | weight  | Symbol |Company                                                                     |
