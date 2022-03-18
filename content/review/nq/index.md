@@ -1,11 +1,51 @@
 ---
 title: Nasdaq
-subtitle: "Components by weight"
-date: "2022-01-01"
-draft: false
+subtitle: ""
 excerpt: 
+date: "2022-01-01"
+catagories:
+- nasdaq
+- review
+tags:
+- 
+draft: false
 weight: 4
 ---
+
+
+## NASDAQ 100
+
+---
+
+
+[NASDAQ](<https://www.nasdaq.com/>)
+
+Symbols for the Nasdaq: [COMPQ](<https://schrts.co/bPcZMrRF>),[QQQ](<https://schrts.co/ibqGvDCU>),[NDX](<https://schrts.co/daGJVDzy>) 
+
+## Nasdaq market breadth links:   
+
+---
+
+
+[Nasdaq 100 - Percent of Stocks Above 50DMA](<https://schrts.co/HYXTNCKZ>)</br>
+[Nasdaq 100 - Percent of Stocks Above 200DMA](<https://schrts.co/VXKhDkvg>)</br> 
+
+
+[Nasdaq 100 - above 50DMA from indexindicators.com](<https://www.indexindicators.com/charts/nasdaq100-vs-nasdaq100-stocks-above-50d-sma-params-x-x-x-x/>)</br>
+[Nasdaq 100 - above 200DMA from indexindicators.com](<https://www.indexindicators.com/charts/nasdaq100-vs-nasdaq100-stocks-above-200d-sma-params-x-x-x-x/>)</br>
+
+
+
+
+
+
+
+## Components
+
+
+----
+
+[Nasdaq 100 - Companies by Weight](https://www.slickcharts.com/nasdaq100)
 
 | weight  | Symbol |Company                                                                     |
 |------|------|---------------------------------------------------|----------------|

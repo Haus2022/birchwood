@@ -1,60 +1,33 @@
 ---
-
-date: "2022-02-07"
-categories:
-- checklist
-tags:
-- review
-draft: false
-excerpt: ''
-slug: checklist
+title: 'General'
 subtitle:
-title: 'Checklist'
+excerpt: 
+date: "2022-01-01"
+categories:
+- general
+- review
+tags:
+- 
+draft: false
 weight: 1
 ---
 
 ### Calendars
+
+--- 
+
 [Economic Calendar](<https://www.investing.com/economic-calendar/>)<br>
-[Jewish Holidays](<https://www.chabad.org/holidays/default_cdo/jewish/holidays.htm>)
-[Apple Events](https://www.apple.com/apple-events/)
-[Whitehouse live page](https://www.whitehouse.gov/live/)
+[Cboe 2022 ExpirationsCalendar](https://www.barchart.com/futures/options-expirations/indices)<br>
+[OIC Options Expiration](https://www.optionseducation.org/getmedia/7b5c1151-682e-4b87-8e48-f3780dc7ab1c/2022_Expiration_Calendar.pdf.aspx?ext=.pdf)
 
-
-
-### NASDAQ 100
-
-[NASDAQ](<https://www.nasdaq.com/>)
-
-Symbols for the Nasdaq: [COMPQ](<https://schrts.co/bPcZMrRF>),[QQQ](<https://schrts.co/ibqGvDCU>),[NDX](<https://schrts.co/daGJVDzy>) 
-
-### Nasdaq 100 market breadth links:   
-
-+ [Nasdaq 100 - Percent of Stocks Above 50DMA](<https://schrts.co/HYXTNCKZ>) 
-+ [Nasdaq 100 - Percent of Stocks Above 200DMA](<https://schrts.co/VXKhDkvg>) 
-+ [Nasdaq 100 - above 50DMA from indexindicators.com](<https://www.indexindicators.com/charts/nasdaq100-vs-nasdaq100-stocks-above-50d-sma-params-x-x-x-x/>) <br>
-+ [Nasdaq 100 - above 200DMA from indexindicators.com](<https://www.indexindicators.com/charts/nasdaq100-vs-nasdaq100-stocks-above-200d-sma-params-x-x-x-x/>)
-
-<br>
-
-### S&P 500 
-
-Symbols for the S&P
-
-### S&P 500 market breadth links : 
-
-+ [S&P 500 - Stocks above 50 DMA](https://schrts.co/IWsFrQtp)
-+ [S&P 500 - Stocks above 150 DMA](https://schrts.co/cKKsqwgW)
-+ [S&P 500 - Stocks above 200 DMA](https://schrts.co/WywjiUGY)
-+ [S&P 500 - Percent Stocks above 50 DMA](https://schrts.co/iZdTVQXe)
-+ [S&P 500 - Percent Stocks above 150 DMA](https://schrts.co/FAQdRUyA)
-+ [S&P 500 - Percent Stocks above 200 DMA](https://schrts.co/iZdTVQXe)
-+ [S&P 500 - above 50DMA from indexindicators.com](<https://www.indexindicators.com/charts/sp500-vs-sp500-stocks-above-50d-sma-params-x-x-x-x/>) <br>
-+ [S&P 500 - above 200DMA from indexindicators.com](<https://www.indexindicators.com/charts/sp500-vs-sp500-stocks-above-200d-sma-params-x-x-x-x/>)
+[Jewish Holidays](<https://www.chabad.org/holidays/default_cdo/jewish/holidays.htm>)<br>
 
 
 
 
 ### General
+
+----
 
 
 [$VIX - Volatility index](<https://schrts.co/itpvykjr>) <br>
@@ -75,18 +48,19 @@ Symbols for the S&P
 
 
 
-
-
-
-
 ### Other Sources 
+
+----
 
 [Steve Moore MRCI](https://www.mrci.com/web/index.php) <br>
 [Edward Yardini](https://www.yardeni.com/)<br>
 [Linda Raschke](https://www.lindaraschke.net/login)<br>
-
+[Jim Dalton - Volume](https://jimdaltontrading.com/nyse-volume/)
 
 
 ### Data
+
+----
+
 
 [Turtle Trader list](https://www.turtletrader.com/hpd/)<br>

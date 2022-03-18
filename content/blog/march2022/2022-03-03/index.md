@@ -1,8 +1,8 @@
 ---
-title: March 16, 2022
+title: March 3, 2022
 subtitle: 
-excerpt: Wednesday
-date: 2022-03-16
+excerpt: Thursday
+date: 2022-03-03
 author: 
 categories:
 - March
@@ -10,7 +10,7 @@ categories:
 - NQ Low to High
 draft: false
 layout: single-series # single, single-series, single-sidebar
-weight: 16
+weight: 3
 
 
 
@@ -26,17 +26,8 @@ weight: 16
 
 
 
-
-![screen shot](20220316_000100.png)
-
----
-
-
-
-![screen shot](20220316_000101.png)
+![screen shot](20220303_000046.png)
 
 ---
 
 
-
-![screen shot](20220316_000102.png)

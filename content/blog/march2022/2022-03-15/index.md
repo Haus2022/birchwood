@@ -1,7 +1,7 @@
 ---
 title: March 15, 2022
 subtitle: 
-excerpt: Thursday
+excerpt: Tuesday
 date: 2022-03-15
 author: 
 categories:
@@ -10,7 +10,7 @@ categories:
 - NQ Low to High
 draft: false
 layout: single-series # single, single-series, single-sidebar
-weight: 16
+weight: 15
 
 
 
