@@ -1,5 +1,5 @@
 ---
-title: 
+title: March 2022
 description: |
 author: 
 show_post_thumbnail: false
@@ -28,8 +28,8 @@ cascade:
     text_link_label: ""
     text_link_url: ""
     show_sidebar_adunit: false # show ad container
-    text_series_label: "In this series" 
-    text_contents_label: "On this page" 
+    text_series_label: "Dates" 
+    text_contents_label: "Section" 
   tags:
   - 
   categories:

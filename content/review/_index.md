@@ -1,6 +1,6 @@
 ---
 aliases:
-- markets
+- review
 author: 
 cascade:
   author: 
@@ -16,20 +16,21 @@ cascade:
   type: collection
 description: |
 
-layout: list-sidebar
+layout: single-series
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: false
 sidebar:
-  author: 
+  author:
   description: |
   show_sidebar_adunit: false
   text_link_label: 
   text_link_url: 
-  title: Get started
+  title: 
 thumbnail_left: true
 title: review
 type: collection
 ---
 
 ** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**
+
