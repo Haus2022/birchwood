@@ -1,15 +1,13 @@
 ---
 ## Configure page content in wide column
-title: "A recording. " # leave blank to exclude
+title:  "" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 8 # set to zero to exclude
 show_intro: true
 intro: |
- Sixteen o two, is a trading journal. 
- A site where market charts, R projects and other general market sentiment observations are collected.
+ "Never go to war unless the odds are with you." 
  
- Sixteen o two also features a rotating selection of paintings to add some visual pleasure.  
 show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!

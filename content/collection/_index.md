@@ -1,28 +1,33 @@
 ---
-author: 1602
-cascade:
-  layout: single-series
-  sidebar: 
-    author: 
-    description: 
-    show_author_byline: true
-    show_post_date: true
-    show_sidebar_adunit: False
-    text_contents_label: On this page
-<<<<<<< HEAD
-    text_link_label: "T"
-    text_link_url: ""
-=======
-    text_link_label: "The Cestello Annunciation, c.1489"
-    text_link_url: "https://en.wikipedia.org/wiki/Cestello_Annunciation"
->>>>>>> 66e6d0386e691a259a9aa4ba4d862f9d312b171c
-    text_series_label: outline
-    title: Sandro Botticelli  
-description: ""
-layout: list-sidebar
+title: "Create a Collection"
+subtitle: "A collection, minus the blog."
+description: |
+  Sometimes you want a souped-up series- a bundle of related pages 
+  meant to be read in sequence. This section is like a blog series, 
+  minus the blog.
+author: Alison Hill
+show_post_thumbnail: true
+thumbnail_left: false # for list-sidebar only
 show_author_byline: false
 show_post_date: false
-show_post_thumbnail: false
-subtitle: 
-thumbnail_left: false
+ # for listing page layout
+layout: list-sidebar # list, list-sidebar
+
+ # set up common front matter for all individual pages in series
+cascade:
+  layout: single-series 
+  sidebar:
+    title: "Create a Collection"
+    author: Alison Hill
+    description: |
+      Sometimes you want a souped-up series- a bundle of related pages 
+      meant to be read in sequence. This section is like a blog series, 
+      minus the blog.
+    show_author_byline: true
+    show_post_date: true
+    text_link_label: ""
+    text_link_url: ""
+    show_sidebar_adunit: true # show ad container, first page only
+    text_series_label: "Outline" 
+    text_contents_label: "On this page" 
 ---

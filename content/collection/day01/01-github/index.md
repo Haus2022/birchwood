@@ -1,11 +1,12 @@
 ---
-date: "2021-01-01"
+title: "A GitHub profile"
+weight: 1
+subtitle: "Put your best foot forward, first."
+excerpt: "You can share information about yourself with the community on GitHub by creating a profile README. GitHub shows your profile README at the top of your profile page."
+date: 2021-01-01
 draft: false
-excerpt: You can share information about yourself with the community on GitHub by
-  creating a profile README. GitHub shows your profile README at the top of your profile
-  page.
 links:
-- icon: door-open 
+- icon: door-open
   icon_pack: fas
   name: website
   url: https://bakeoff.netlify.com/
@@ -13,10 +14,6 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/apreshill/bakeoff
-
-subtitle:
-title: January 2022
-weight: 1
 ---
 
 ## Profile

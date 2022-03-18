@@ -1,13 +1,14 @@
 ---
-author: Alison Hill
+title: "An evergreen post"
+subtitle: "Testing"
+excerpt: "Good stuff"
+date: 2021-01-20
+author: "Alison Hill"
+draft: false
+# layout options: single, single-sidebar
+layout: single
 categories:
 - evergreen
-date: "2021-01-20"
-draft: false
-excerpt: Good stuff
-layout: single
-subtitle: Testing
-title: An evergreen post
 ---
 
 ## Rendering mathematical equations

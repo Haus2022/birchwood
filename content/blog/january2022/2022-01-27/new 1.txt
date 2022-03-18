@@ -1,0 +1,13 @@
+Inventory investment is one of the most volatile components of gross domestic
+product (GDP), giving it an important role in short run variations in GDP growth.
+Moreover, inventory movement plays a key role in the timing, duration, and magnitude of
+business cycles, as unanticipated buildups in inventories may signal future cutbacks in
+production, and unanticipated shortages in inventories may signal future pickups in
+production.
+
+
+
+
+40 Change in private inventories -26.0 57.3 -94.2 -174.3 -60.2 224.7 -37.5 88.8 -88.3 -168.5 -66.8 173.5 4.8 101.7 240.3 40
+41 Farm -4.8 -2.2 -3.3 -4.6 -5.1 -6.2 -21.7 -3.9 -15.7 -22.7 -24.3 -24.2 -14.0 -1.6 0.0 41
+42 Nonfarm -21.2 59.4 -90.9 -169.7 -55.1 230.9 -19.8 90.2 -74.4 -147.7 -46.5 189.6 15.5 101.2 236.1 42
