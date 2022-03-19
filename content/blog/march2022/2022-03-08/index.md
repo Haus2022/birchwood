@@ -14,6 +14,31 @@ weight: 8
 ---
 
 
+## Charts
+---
+
+{{< panelset class="charts" >}}
+
+{{< panel name= "Nasdaq 30:" >}}
+ ![screen shot](20220319_000171.png)
+{{< /panel >}}
+
+{{< panel name= "Nasdaq 5:" >}}
+ ![screen shot](20220319_000164.png)
+{{< /panel >}}
+
+{{< panel name= "SP500 30:" >}}
+![screen shot](20220318_000135.png)
+ 
+{{< /panel >}}
+
+{{< panel name= "SP500 5:" >}}
+![screen shot](20220318_000151.png)
+  
+{{< /panel >}}
+
+{{< /panelset >}}
+
 
 
 ## Events
