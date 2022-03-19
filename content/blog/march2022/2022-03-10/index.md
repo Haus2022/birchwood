@@ -1,8 +1,8 @@
 ---
-title: March 9, 2022
+title: March 10, 2022
 subtitle: 
-excerpt: Friday
-date: 2022-03-09
+excerpt: Thursday
+date: 2022-03-10
 author: 
 categories:
 - March
@@ -10,7 +10,10 @@ categories:
 - 
 draft: false
 layout: single-series # single, single-series, single-sidebar
-weight: 09
+weight: 10
+---
+
+
 
 ## Charts
 ---
@@ -18,20 +21,20 @@ weight: 09
 {{< panelset class="charts" >}}
 
 {{< panel name= "Nasdaq 30:" >}}
- ![screen shot](20220318_000123.png)
+ ![screen shot](20220318_000124.png)
 {{< /panel >}}
 
 {{< panel name= "Nasdaq 5:" >}}
- ![screen shot](20220319_000163.png)
+ ![screen shot](20220319_000162.png)
 {{< /panel >}}
 
 {{< panel name= "SP500 30:" >}}
-![screen shot](20220318_000136.png)
+![screen shot](20220318_000137.png)
  
 {{< /panel >}}
 
 {{< panel name= "SP500 5:" >}}
-![screen shot](20220318_000150.png)
+![screen shot](20220318_000149.png)
   
 {{< /panel >}}
 

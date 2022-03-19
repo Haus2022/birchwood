@@ -2,8 +2,8 @@
 ## Configure page content in wide column
 title:  "" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
-use_featured: false # if false, use most recent by date
-number_categories: 8 # set to zero to exclude
+use_featured: true # if false, use most recent by date
+number_categories: 30 # set to zero to exclude
 show_intro: true
 intro: |
  "Never go to war unless the odds are with you." 

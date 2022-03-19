@@ -13,7 +13,30 @@ layout: single-series # single, single-series, single-sidebar
 weight: 11
 ---
 
+## Charts
+---
 
+{{< panelset class="charts" >}}
+
+{{< panel name= "Nasdaq 30:" >}}
+ ![screen shot](20220318_000126.png)
+{{< /panel >}}
+
+{{< panel name= "Nasdaq 5:" >}}
+ ![screen shot](20220319_000161.png)
+{{< /panel >}}
+
+{{< panel name= "SP500 30:" >}}
+![screen shot](20220318_000138.png)
+ 
+{{< /panel >}}
+
+{{< panel name= "SP500 5:" >}}
+![screen shot](20220318_000148.png)
+  
+{{< /panel >}}
+
+{{< /panelset >}}
 
 ## Events
 ---
