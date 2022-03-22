@@ -16,7 +16,8 @@ weight: 5
 ### S&P 500 
   [S&P Website ](https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview)
   
-  
+  Stockcharts Charts : INX, SPX  [COMPQ](<https://schrts.co/bPcZMrRF>),[QQQ](<https://schrts.co/ibqGvDCU>),[NDX](<https://schrts.co/daGJVDzy>) 
+
 
 ----
 Symbols for the S&P

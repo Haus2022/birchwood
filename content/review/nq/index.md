@@ -18,9 +18,13 @@ weight: 4
 ---
 
 
-[NASDAQ](<https://www.nasdaq.com/>)
+[NASDAQ website](<https://www.nasdaq.com/>)
 
-Symbols for the Nasdaq: [COMPQ](<https://schrts.co/bPcZMrRF>),[QQQ](<https://schrts.co/ibqGvDCU>),[NDX](<https://schrts.co/daGJVDzy>) 
+Sierra Charts : IUXX, NASX
+
+Stockcharts Charts : [COMPQ](<https://schrts.co/bPcZMrRF>),[QQQ](<https://schrts.co/ibqGvDCU>),[NDX](<https://schrts.co/daGJVDzy>) 
+
+Barcharts Charts : [ONEQ](https://www.barchart.com/etfs-funds/quotes/ONEQ/interactive-chart), [Search Result](https://www.barchart.com/search?q=nasdaq&regions=us&assets=equities)
 
 ## Nasdaq market breadth links:   
 
