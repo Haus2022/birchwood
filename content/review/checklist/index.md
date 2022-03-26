@@ -28,8 +28,9 @@ weight: 1
 ### General
 
 ----
-
-
+[Most Active Options Today](https://www.optionseducation.org/toolsoptionquotes/today-s-most-active-options)<br>
+[Finviz Heatmap](https://finviz.com/map.ashx?t=sec)<br>
+<br>
 [$VIX - Volatility index](<https://schrts.co/itpvykjr>) <br>
 [Decision Point Gallery](<https://stockcharts.com/freecharts/dpgallery.html>) includes the AAII sentiment readings <br>
 [AAII SENTIMENT](https://www.aaii.com/sentimentsurvey/sent_results)<br>
