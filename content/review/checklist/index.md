@@ -16,21 +16,32 @@ weight: 1
 
 --- 
 
-[Economic Calendar](<https://www.investing.com/economic-calendar/>)<br>
-[Cboe 2022 ExpirationsCalendar](https://www.barchart.com/futures/options-expirations/indices)<br>
-[OIC Options Expiration](https://www.optionseducation.org/getmedia/7b5c1151-682e-4b87-8e48-f3780dc7ab1c/2022_Expiration_Calendar.pdf.aspx?ext=.pdf)
 
+[Forex Factory Calendar](https://www.forexfactory.com/calendar)<br>
+[BarChart - Cboe 2022 Expirations Calendar](https://www.barchart.com/futures/options-expirations/indices)<br>
+[OIC Options Expiration](2022_Expiration_Calendar.pdf)<br>
 [Jewish Holidays](<https://www.chabad.org/holidays/default_cdo/jewish/holidays.htm>)<br>
 
+### News 
+
+[Investing.com](<https://www.investing.com/economic-calendar/>)<br>
+[Finviz News and Blogs](https://finviz.com/news.ashx)<br>
 
 
+### Put-Call 
+
+*[CBOE Put Call 30 min statistics](https://www.cboe.com/us/options/market_statistics/)* in CST(+1h for EST) <br>
+
+[$CPC - CBOE Total Options](https://schrts.co/bVfraSEI)<br>
+[$CPCI - CBOE Index Options](https://schrts.co/SIFrYZmF)<br>
+[$CPCE - CBOE Equity Options](https://schrts.co/vtGNUhIK)<br>
+[Most Active Options Today](https://www.optionseducation.org/toolsoptionquotes/today-s-most-active-options)<br>
 
 ### General
 
 ----
-[Most Active Options Today](https://www.optionseducation.org/toolsoptionquotes/today-s-most-active-options)<br>
+
 [Finviz Heatmap](https://finviz.com/map.ashx?t=sec)<br>
-<br>
 [$VIX - Volatility index](<https://schrts.co/itpvykjr>) <br>
 [Decision Point Gallery](<https://stockcharts.com/freecharts/dpgallery.html>) includes the AAII sentiment readings <br>
 [AAII SENTIMENT](https://www.aaii.com/sentimentsurvey/sent_results)<br>
