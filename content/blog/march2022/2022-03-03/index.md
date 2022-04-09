@@ -1,33 +1,40 @@
 ---
-title: March 3, 2022
+Title: March  3,2022
 subtitle: 
 excerpt: Thursday
 date: 2022-03-03
-author: 
+author:
 categories:
 - March
-- Nasdaq
-- NQ Low to High
+-
+-
+-
 draft: false
-layout: single-series # single, single-series, single-sidebar
-weight: 3
-
-
+layout: single-series
+weight:  3
+---
 
 
 ## Events
----
 
 
 
 ---
+
+
+
+## Charts
+---
+
+![screen shot](20220318_000119.png)
+
+
 
 ## Screenshots
 
-
-
-![screen shot](20220303_000046.png)
-
 ---
 
 
+
+![screen shot](20220303_000154.png)
+![screen shot](20220303_000046.png)

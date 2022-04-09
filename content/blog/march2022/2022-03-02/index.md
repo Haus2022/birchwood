@@ -18,6 +18,14 @@ weight: 2
 ## Events
 ---
 
+## Charts
+
+---
+
+![screen shot](20220318_000118.png)
+![screen shot](20220318_000131.png)
+![screen shot](20220318_000155.png)
+![screen shot](20220319_000166.png)
 
 
 ---
@@ -52,3 +60,5 @@ weight: 2
 
 
 ![screen shot](20220302_000044.png)
+
+---
