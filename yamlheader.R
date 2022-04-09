@@ -1,18 +1,62 @@
 
-folder <- "march2022"
-V1.1 <- "2022-03-25"
-#V1.1 <- Sys.Date()
+
+# <- "2022-03-24"
+V1.1 <- Sys.Date()
 V6 <- strftime(V1.1, format = "%B %e,%Y")
 V7 <- strftime(V1.1, format = "%A")
 V8 <- strftime(V1.1, format = "%B")
 V9 <- strftime(V1.1, format = "%e")
 V10 <- strftime(V1.1, format = "%Y%m%d")
+V8.1 <- tolower(V8)
+V11 <- strftime(V1.1, format ="%Y")
+folder <- paste0(V8.1,V11)
 
 
-#dir.create(paste0("C:/Users/jason/Documents/birchwood/content/blog/",V1.1))
+
+directory <- paste0("C:/Users/jason/Documents/birchwood/content/blog/",folder)
+
+if (file.exists(directory)) {
+  
+  cat("The directory already exists")
+  
+} else {
+  
+  dir.create(directory)
+  
+}
+
+subdirectory <- paste0(directory,"/",V1.1)
+
+if (file.exists(subdirectory)) {
+  
+  cat("The directory already exists")
+  
+} else {
+  
+  dir.create(subdirectory)
+  
+}
+
+
+
+file <- paste0(subdirectory,"/index.md")
+
+if (file.exists(file)) {
+  
+  cat("The file already exists")
+  
+} else {
+  
+  file.create(file)
+  
+}
+
+
+
+
 
   
-myfile <- paste0("C:/Users/jason/Documents/birchwood/content/blog/",folder,"/",V1.1,"/index.md")
+myfile <- file
 sink(myfile)
 cat("---")
 cat("\n")
@@ -70,7 +114,7 @@ sink()
 
 
 
-
+rm(V1.1,V10,V11,V6,V7,V8,V8.1,V9,subdirectory,directory,folder,file,myfile )
 
 
 
