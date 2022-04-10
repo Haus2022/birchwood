@@ -20,9 +20,8 @@ Type 'q()' to quit R.
 [Previously saved workspace restored]
 
 > 
-> 
-> # <- "2022-03-24"
-> V1.1 <- Sys.Date()
+> V1.1 <- "2022-02-19"
+> #V1.1 <- Sys.Date()
 > V6 <- strftime(V1.1, format = "%B %e,%Y")
 > V7 <- strftime(V1.1, format = "%A")
 > V8 <- strftime(V1.1, format = "%B")
@@ -57,7 +56,7 @@ The directory already exists>
 +   dir.create(subdirectory)
 +   
 + }
-> 
+The directory already exists> 
 > 
 > 
 > file <- paste0(subdirectory,"/index.md")
@@ -71,8 +70,7 @@ The directory already exists>
 +   file.create(file)
 +   
 + }
-[1] TRUE
-> 
+The file already exists> 
 > 
 > myfile <- file
 > 
@@ -92,4 +90,4 @@ The directory already exists>
 > 
 > proc.time()
    user  system elapsed 
-   0.17    0.07    0.20 
+   0.17    0.06    0.20 

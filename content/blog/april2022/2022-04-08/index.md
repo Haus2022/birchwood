@@ -21,6 +21,8 @@ weight:  8
 
 [Jeffrey P. Snider](https://alhambrapartners.com/2022/04/08/speaking-volumes-rather-than-fast-rate-hikes/)
 
+[Jeffrey P. Snider](https://alhambrapartners.com/2022/04/08/concocting-inventory/)
+
 ---
 
 
@@ -57,38 +59,4 @@ Projected 2021/22 global trade is lowered 3.0 million tons to 200.1 million as l
 
 
 ![screen shot](20220408_000254.png)
----
-Title: April  8,2022
-subtitle: 
-excerpt: Friday
-date: 2022-04-08
-author:
-categories:
-- April
--
--
--
-draft: false
-layout: single-series
-weight:  8
----
 
-
-## Events
-
-
-
----
-
-
-
-## Charts
----
-
-
-
-## Screenshots
-
-
-
-![screen shot](20220408_000xxx.png)

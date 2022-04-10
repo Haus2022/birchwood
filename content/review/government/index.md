@@ -2,10 +2,10 @@
 ---
 date: "2021-01-01"
 draft: false
-excerpt: Reports
+excerpt: Government
 subtitle:
-slug: reports
-title: Reports
+slug: 
+title: Government
 weight: 2
 ---
 
@@ -37,3 +37,16 @@ weight: 2
 [Institute for supply management](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/)
 + [ISM](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/)
 + [ISM PMI](https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/)
+
+
+
+
+## Video 
+
+
+
+[Financial Services Committee](https://financialservices.house.gov/events)
+
+[US Senate Committee on Banking, Housing, and Urban Affairs](https://www.banking.senate.gov/hearings)
+
+[Whitehouse live page](https://www.whitehouse.gov/live/)
