@@ -91,4 +91,4 @@ The directory already exists>
 > 
 > proc.time()
    user  system elapsed 
-   0.26    0.09    1.17 
+   0.15    0.06    0.46 
