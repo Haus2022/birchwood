@@ -23,6 +23,8 @@ weight:  8
 
 [Jeffrey P. Snider](https://alhambrapartners.com/2022/04/08/concocting-inventory/)
 
+
+
 ---
 
 
