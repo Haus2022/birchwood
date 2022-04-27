@@ -15,31 +15,31 @@ weight: 14
 ## Charts
 ---
 
-{{< panelset class="charts" >}}
 
-{{< panel name= "Nasdaq 30:" >}}
- ![screen shot](20220318_000127.png)
-{{< /panel >}}
+![screen shot](20220318_000127.png)
 
-{{< panel name= "Nasdaq 5:" >}}
- ![screen shot](20220319_000160.png)
-{{< /panel >}}
+![screen shot](20220319_000160.png)
 
-{{< panel name= "SP500 30:" >}}
 ![screen shot](20220318_000139.png)
- 
-{{< /panel >}}
 
-{{< panel name= "SP500 5:" >}}
 ![screen shot](20220318_000147.png)
   
-{{< /panel >}}
 
-{{< /panelset >}}
 
 
 ## Events
 ---
+
+
+## Posts
+---
+
+
+if any are interested in reading a recent paper about de-dollarization, pdf version is free.
+
+https://www.cambridge.org/core/elements/can-brics-dedollarize-the-global-financial-system/0AEF98D2F232072409E9556620AE09B0
+
+
 
 
 

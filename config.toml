@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "home"
+title = "haus"
 author = ""
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
