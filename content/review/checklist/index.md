@@ -68,7 +68,7 @@ weight: 1
 [Edward Yardini](https://www.yardeni.com/)<br>
 [Linda Raschke](https://www.lindaraschke.net/login)<br>
 [Jim Dalton - Volume](https://jimdaltontrading.com/nyse-volume/)
-
+[books](http://dl.fxf1.com/files/books/english)
 
 ### Data
 
